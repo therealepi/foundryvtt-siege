@@ -1,8 +1,8 @@
 {
   "name": "siege",
   "title": "SIEGE Engine",
-  "description": "The SEIGE Engine for FoundryVTT!",
-  "version": "0.0.1",
+  "description": "The SIEGE Engine for FoundryVTT!",
+  "version": "0.0.2a",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.7.9",
   "templateVersion": 2,

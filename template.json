@@ -1,6 +1,6 @@
 {
   "Actor": {
-    "types": ["character"],
+    "types": ["character", "npc" ],
     "templates": {
       "base": {
         "health": {
@@ -46,7 +46,7 @@
     }
   },
   "Item": {
-    "types": ["item", "feature", "spell"],
+    "types": ["item", "feature", "spell", "magic_item"],
     "templates": {
       "base": {
         "description": ""
@@ -63,6 +63,11 @@
     "spell": {
       "templates": ["base"],
       "spellLevel": 1
+    },
+    "magic_item": {
+      "templates": ["base"],
+      "quantity": 1,
+      "weight": 0
     }
   }
 }
