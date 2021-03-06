@@ -22,8 +22,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/therealepi/foundryvtt-siege",
+  "manifest": "https://raw.githubusercontent.com/therealepi/foundryvtt-siege/main/system.json",
+  "download": "https://codeload.github.com/therealepi/foundryvtt-siege/zip/main",
   "license": "LICENSE"
 }
