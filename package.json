@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate",
+  "name": "siege",
   "version": "1.0.0",
-  "description": "CSS compiler for the Boilerplate system",
+  "description": "CSS compiler for the SIEGE Engine",
   "scripts": {
     "build": "gulp",
     "compile": "gulp css",
@@ -11,8 +11,8 @@
   "browserslist": [
     "last 3 versions"
   ],
-  "author": "John Doe",
-  "license": "MIT",
+  "author": "Epi Camacho",
+  "license": "GNU GPL v3.0",
   "private": true,
   "dependencies": {
     "gulp": "^4.0.2",
